@@ -1,0 +1,6 @@
+concurrency: 80
+
+development:
+  :concurrency: 80
+:queues:
+  - demo_default_queue
